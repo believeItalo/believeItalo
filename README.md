@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Hey there! I'm Ítalo Reis
+    Hey there! I'm Ítalo
     
   </h1>
   
